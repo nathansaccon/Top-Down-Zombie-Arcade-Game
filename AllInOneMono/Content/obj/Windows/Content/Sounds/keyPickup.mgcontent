@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/natha/Documents/School 2018 Fall/PROG2370 - Game Programming with Data Structures/NathanSacconFinalProject/AllInOneMono/Content/Sounds/keyPickup.wav</SourceFile>
+  <SourceTime>2018-12-05T14:03:07.0523662-05:00</SourceTime>
+  <DestFile>C:/Users/natha/Documents/School 2018 Fall/PROG2370 - Game Programming with Data Structures/NathanSacconFinalProject/AllInOneMono/Content/bin/Windows/Content/Sounds/keyPickup.xnb</DestFile>
+  <DestTime>2018-12-05T18:07:07.6497172-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
