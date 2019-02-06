@@ -23,7 +23,7 @@ namespace NathanSacconFinalProject
 {
     class HUD : DrawableGameComponent
     {
-        public static bool isTest = true;
+        public static bool isTest = false;
         SpriteBatch spriteBatch;
         SpriteFont font;
         Player player;
